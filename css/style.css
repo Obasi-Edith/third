@@ -1,0 +1,408 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    box-sizing: none;
+}
+.food{
+    margin: 20px;
+    display: flex;
+}
+
+.log {
+    margin-left: 50px;
+}
+ul{
+    text-decoration-line: none;
+    float: right;
+    list-style-type: none;
+}
+
+.mains li {
+    text-decoration-line: none;
+}
+.mains ul li{
+    display: inline-block;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration-line: none;
+    list-style: none;
+}
+ul li a{
+    list-style: none;
+    text-decoration-line: none;
+    color: rgb(0, 0, 0);
+    
+}
+
+.mains {
+    margin-left: 500px;
+     text-decoration: none;
+}
+
+.button {
+    padding: 5px 10px;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: solid 1px;
+    cursor: pointer;
+}
+.food{
+    position: fixed;
+    position: relative;
+}
+.you ul li.button{
+    padding-left: 20px;
+}
+.text {
+    margin-top: -300px;
+    padding-bottom: 300px;
+}
+.text h1{
+    margin-top: -430px;
+    margin-left: 80px;
+    font-size: 34px;
+}
+.text button{
+    border: none;
+    height: 45px;
+    border-radius: 5px;
+    color: white;
+}
+.text li{
+    padding-left: 20px;
+}
+
+.text input{
+    width: 30%;
+    height: 40px;
+  margin-left: 100px;
+}
+.text button{
+    padding: 10px;
+    margin: 0px;
+    background-color: green;
+    border-radius: green 1px solid;
+    cursor: pointer;
+}
+li.button{
+list-style: none;
+display: inline-block;
+padding:10px;
+}
+.col-md-6 {
+    margin-bottom: 40px;
+    padding-top: 80px;
+    padding-left: 50px;
+}
+.col-md-6 .bread{
+    margin-left: 60px;
+}
+.col-md-6 h2{
+    margin-top: 35px;
+    margin-left: 60px;
+}
+.col-md-6 p{
+    color: gray;
+  
+}
+.pool{
+    text-align: center;
+    margin-top: -160px;
+    margin-left: 60px;
+    margin-bottom: 90px; 
+}
+.col-md-6 img{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.pool button{
+    padding: 5px 10px;
+    background: rgb(3, 41, 8);
+    border-radius: 10px;
+    border: solid 1px;
+    cursor: pointer;
+    color: white;
+}
+.rat{
+    padding-top: 80px;
+    margin-left: 60px;
+    font-size: 26px;
+    line-height: 38px;
+    padding-bottom: 24px;
+}
+
+.row .col-md-6 img{
+    margin-right: -30px;
+  
+}
+.dodo{
+    margin-left: 80px;
+}
+.text_btn{
+    background: none;
+}
+.ice{
+    margin-bottom: -80px;
+    padding-top: 150px;
+    margin-left: 60px;
+    font-size: 26px;
+    padding-bottom:50px;
+}
+
+.card h6{
+    align-content: center;
+}
+
+.tools .row {
+    padding-top: 80px;
+}
+
+.gift {
+    height: 70px;
+    box-shadow: 8px 8px 8px 3px rgb(192 192 192);
+    background-color: rgb(248, 246, 246);
+    margin-bottom: 100px;
+    display: flex;
+}
+.gifts{
+    margin-left: 350px;
+    margin-right: 0px;
+}
+.gift img{
+    padding-right: 50px;
+    margin-top: 5px;
+}
+.fools{
+    display: flex;
+    padding-left: 50px;
+    padding-top: 20px;
+    justify-content: space-bewtween;
+    padding-right: 20px ;
+}
+
+.weed{
+    padding-left: 50px;
+    margin-top: -150px;
+    
+}
+.weed h3{
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 30px;
+}
+.weed button{
+    background-color: transparent;
+    padding: 5px 10px;
+    background: rgb(3, 68, 14);
+    border-radius: 4px;
+    border:none;
+    cursor: pointer;
+    padding-left: 20px;
+    margin-left: 30px;
+    margin-top: -100px;
+    box-sizing: border-box;
+    text-decoration: none;
+    position: relative;
+    color: white;
+   
+}
+.carousel-inner{
+    display: flex;
+    padding-top: 40px;
+    
+}
+.carousel-inner img{
+    margin-left: 30px;
+    padding-top: -200px;
+    box-shadow: 30px;
+}
+#carouselExampleInterval{
+    margin-left: 10px;
+    padding: 10px;
+    box-shadow:8px 8px 8px 3px rgb(192 192 192);;
+}
+.banana{
+    padding-top: 80px;
+}
+
+.eat.row{
+    padding-top: 80px;
+}
+/* .col-md-6{
+    box-shadow: 2px 2px 2px 1px rgb(192, 192, 192); */
+/* } */
+/* .col-md-6 img{
+    margin-top: -70px;
+} */
+.eat.row .col-md-6 img{
+    margin-right: 0px;
+}
+.row .col-md-6 h2{
+    padding-left: 0px;
+}
+.col-md-6.book {
+    padding-left: 0px;
+   /* margin-top: 100px; */
+}
+.carousel-item p{
+    padding-left: 40px;
+}
+.nice h3{
+    color: rgb(41, 41, 41);
+    margin-left: 60px;
+  padding-top: 100px;
+}
+.btn{
+    margin-left: 30px;
+    margin-top: 80px;
+    
+}
+  
+.banana img{
+    margin-left: 30px;
+}
+.me{
+    margin-left: 30px;
+    margin-top: 80px;
+}
+.he{
+    margin-left: 30px;
+    margin-top: 80px;
+}
+.but{
+    display: flex;
+    justify-content: space-evenly;
+}
+.raw{
+   text-decoration: none;
+}
+.bush{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 20px;
+}
+.fowl img{
+    border-bottom: 2px solid grey;
+}
+
+.fowl img:hover{
+    border-bottom: 2px solid rgb(3, 100, 71);
+    cursor: pointer;
+}
+.ant{
+    display:flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.our {
+    margin-left: -30px;
+}
+.fools{
+    padding: 0px;
+    justify-content: space-evenly;
+    border-radius: none;
+}
+.fools h6 p{
+    padding-bottom: 10px;
+    padding-left: 40px;
+}
+
+.tree{
+    margin-top: 87px;
+    border-top: solid 1px rgb(165, 162, 162);
+    border-bottom: solid 1px rgb(151, 150, 150);
+}
+
+
+.teee {
+    display: flex;
+    justify-content: space-between;
+margin-top: 47px;
+margin-left: 100px;
+margin-right: 100px;
+
+}
+
+
+.edith  a{
+    padding-top: -15px;
+    margin-bottom: 30px;
+    color: grey;
+word-spacing: 5px;
+margin-left: 15px;
+margin-right: 15px;
+font-weight: bold;
+font-size: 14px;
+}
+.edith  h4{
+    margin-bottom: 20px;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.edith h4 a{
+    padding-top: 2px;
+    padding-left: 50px;
+}
+.card img {
+    padding-bottom: 30px;
+}
+.card h6{
+    padding-left: 15px;
+}
+.card p{
+    padding-left: 15px;
+}
+
+.btn img{
+    margin-top: 30px;
+}
+
+.cards-img-top {
+    height: 200px;
+}
+.fat{
+    
+    display: flex;
+    margin-left: 30px;
+    
+}
+.fat img{
+    
+    display: flex;
+    margin-left: 0px;
+}
+.fat .card{
+    
+    margin-right: 40px;
+}
+.card-body{
+    display: flex;
+}
+.card-body img{
+    border: none;
+    border-radius: 50%;
+}
+.milk{
+    display: flex;
+    margin-left: 50px;
+    font-weight: 500px;
+}
+.milk h3{
+    color: rgb(53, 53, 53);
+    font-weight: 40px;
+    margin-top: 12px;
+    margin-left: 20px;
+}
+.milk p{
+  padding-top: 20px;  
+  padding-left: 50px;
+}
